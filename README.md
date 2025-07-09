@@ -25,8 +25,7 @@ My name is **Elsa Monteiro**, I'm 31 years old, and I'm from **Porto, Portugal**
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsamonteiro13/)
-[![Gmail](https://img.shields.io/badge/Gmail-elsamonteiro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsa.cg.monteiro@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsa.cg.monteiro@gmail.com)
 ---
 
 
